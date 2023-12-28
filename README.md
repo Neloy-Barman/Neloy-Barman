@@ -33,19 +33,54 @@
             <td align="center"><strong>C</strong></td>
         </tr>
     </table>
-      <table>
+    <table>
         <tr>
-            <th colspan="3"><strong>Framework Tools</strong></th>
+            <th colspan="4"><strong>Data Science Tools</strong></th>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/189fe83b-a9f0-4100-a1df-d064e3b648ee" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/b5379879-d034-49d6-a4a9-27c207bddb1c" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Scikit-Learn</strong></td>
+            <td align="center"><strong>Pandas</strong></td>
+        <td align="center"><strong>Numpy</strong></td>
+            <td align="center"><strong>Matplotlib</strong></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="3"><strong>Deep Learning</strong></th>
+        <tr>
+            <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/eb234c7c-1427-4530-b867-22953971d262" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/ef7236f5-21e6-4b5f-8d95-8b6e67bb2754" height="100" width="100"></td>
+<!--             <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/c80f61e5-9fe3-4698-bec8-961532d3b772" height="80" width="80"></td> -->
+            <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/c19ba764-54e0-4cc3-9914-818503161b14" height="120" width="120"></td>
+        </tr>
+        <tr>
+            <td align="center"><strong>TensorFlow</strong></td>
+            <td align="center"><strong>Keras</strong></td>
+<!--             <td align="center"><strong>TensorFlow Lite</strong></td> -->
+            <td align="center"><strong>FastAI</strong></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="4"><strong>Framework Tools</strong></th>
         </tr>
         <tr>
             <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" height="80" width="80"></td>
             <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" height="80" width="80"></td>
             <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" height="80" width="80"></td>
         </tr>
         <tr>
             <td align="center"><strong>Flutter</strong></td>
             <td align="center"><strong>HTML</strong></td>
             <td align="center"><strong>CSS</strong></td>
+            <td align="center"><strong>ASP .Net</strong></td>
         </tr>
     </table>
     <table>
