@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neloy-barman&label=Profile%20views&color=0e75b6&style=flat" alt="neloy-barman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neloy-barman" alt="neloy-barman" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neloy-barman" alt="neloy-barman" /></a> </p>!-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 
+## Skills 
 <div align="center">
     <table>
         <tr>
@@ -22,6 +23,14 @@
             <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="80" width="80"></td>
             <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" height="80" width="80"></td>
             <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="80" width="80"></td>
+        </tr>
+         <tr>
+            <td align="center"><strong>Python</strong></td>
+            <td align="center"><strong>Dart</strong></td>
+            <td align="center"><strong>JavaScript</strong></td>
+            <td align="center"><strong>C#</strong></td>
+            <td align="center"><strong>Java</strong></td>
+            <td align="center"><strong>C</strong></td>
         </tr>
     </table>
       <table>
@@ -95,7 +104,7 @@
 
 <tr>
 <tr>
-        <th colspan="7"><a href="https://github.com/Neloy-Barman/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+        <th colspan="7"><a href="https://github.com/Neloy-Barman/readme-typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&random=false&width=435&lines=I+am+ready+to+work+with+you.;Email+me+via+neloycareer018%40gmail.com)](https://git.io/typing-svg)"></a></th>
       </tr>
 <td align="center">
 
@@ -107,7 +116,7 @@
 <td align="center">
 <p align="center">
 </p>
-            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
+        <img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="190" />
 </td>
 </tr>
 </table>
