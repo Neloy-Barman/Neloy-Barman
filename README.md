@@ -17,14 +17,14 @@
             <th colspan="6"><strong>Programming Languages</strong></th>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original-wordmark.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="80" width="80"></td>
         </tr>
-         <tr>
+        <tr>
             <td align="center"><strong>Python</strong></td>
             <td align="center"><strong>Dart</strong></td>
             <td align="center"><strong>JavaScript</strong></td>
@@ -35,12 +35,17 @@
     </table>
       <table>
         <tr>
-            <th colspan="6"><strong>Framework Tools</strong></th>
+            <th colspan="3"><strong>Framework Tools</strong></th>
         </tr>
         <tr>
-            <td colspan="2"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" height="80" width="80"></td>
-            <td colspan="2"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" height="80" width="80"></td>
-            <td colspan="2"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Flutter</strong></td>
+            <td align="center"><strong>HTML</strong></td>
+            <td align="center"><strong>CSS</strong></td>
         </tr>
     </table>
     <table>
@@ -49,30 +54,50 @@
             <th colspan="6"><strong>IDE</strong></th>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original-wordmark.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original-wordmark.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Visual Studio Code</strong></td>
+            <td align="center"><strong>Jupyter Notebook</strong></td>
+            <td align="center"><strong>PyCharm</strong></td>
+            <td align="center"><strong>Android Studio</strong></td>
+            <td align="center"><strong>MATLAB</strong></td>
+            <td align="center"><strong>MS SQL Server</strong></td>
         </tr>
     </table>
     <table>
         <tr>
-            <th colspan="2"><strong>Opensource Platforms</strong></th>
+            <th colspan="3"><strong>Opensource Platforms</strong></th>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" height="80" width="80"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/285af968-6191-4aee-a8e7-981c8d3d0ec9" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" height="80" width="80"></td>
+            <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" height="80" width="80"></td>
+        </tr>
+          <tr>
+            <td align="center">Google Colaboratory</td>
+            <td align="center"><strong>Git</strong></td>
+            <td align="center"><strong>GitHub</strong></td>
         </tr>
     </table>
      <table>
         <tr>
-            <th colspan="2"><strong>Graphical Tooks</strong></th>
+            <th colspan="3"><strong>Graphical Tooks</strong></th>
         </tr>
         <tr>
             <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" height="80" width="80"></td>
             <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/illustrator/illustrator-plain.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" height="80" width="80"></td>
+        </tr>
+           <tr>
+            <td align="center"><strong>Adobe Photoshop</strong></td>
+            <td align="center"><strong>Adobe Illustrator</strong></td>
+            <td align="center"><strong>Blender</strong></td>
         </tr>
     </table>
 </div>
@@ -104,7 +129,7 @@
 
 <tr>
 <tr>
-        <th colspan="7"><a href="https://github.com/Neloy-Barman/readme-typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&random=false&width=435&lines=I+am+ready+to+work+with+you.;Email+me+via+neloycareer018%40gmail.com)](https://git.io/typing-svg)"></a></th>
+        <th colspan="7"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&random=false&width=435&lines=I+am+ready+to+work+with+you.;Mail+me+via+neloycareer018%40gmail.com" alt="Typing SVG" /></a></th>
       </tr>
 <td align="center">
 
