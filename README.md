@@ -76,7 +76,7 @@
 <tr>
 <td>
 <a href="https://github.com/Neloy-Barman/Neloy-Barman">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neloy-Barman&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=CACAE5&icon_color=blue&bg_color=ffffff" alt="Levy's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neloy-Barman&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=CACAE5&icon_color=blue&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
 <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neloy-Barman&theme=highcontrast&layout=compact" />
