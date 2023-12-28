@@ -13,12 +13,57 @@
 <div align="center">
     <table>
         <tr>
-            <th colspan="3">Programming Languages</th>
+            <th colspan="6"><strong>Programming Languages</strong></th>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original-wordmark.svg"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original-wordmark.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="80" width="80"></td>
+        </tr>
+    </table>
+      <table>
+        <tr>
+            <th colspan="6"><strong>Framework Tools</strong></th>
+        </tr>
+        <tr>
+            <td colspan="2"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" height="80" width="80"></td>
+            <td colspan="2"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" height="80" width="80"></td>
+            <td colspan="2"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" height="80" width="80"></td>
+        </tr>
+    </table>
+    <table>
+    <table>
+        <tr>
+            <th colspan="6"><strong>IDE</strong></th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original-wordmark.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original-wordmark.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="80" width="80"></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="2"><strong>Opensource Platforms</strong></th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" height="80" width="80"></td>
+        </tr>
+    </table>
+     <table>
+        <tr>
+            <th colspan="2"><strong>Graphical Tooks</strong></th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" height="80" width="80"></td>
+            <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/illustrator/illustrator-plain.svg" height="80" width="80"></td>
         </tr>
     </table>
 </div>
