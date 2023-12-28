@@ -10,7 +10,7 @@
 </p>
 
 
-## Skills 
+## Skills & Tools
 <div align="center">
     <table>
         <tr>
@@ -136,10 +136,7 @@
         </tr>
     </table>
 </div>
-
-
-
-
+        
 ## 📊 GitHub Statistics
 <table>
 <tr>
