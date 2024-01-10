@@ -1,15 +1,98 @@
-<h1 align="center">Hi 👋, I'm Neloy Barman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hello👋, I'm Neloy Barman</h1>
+<!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
+
+
+<!-- !<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" width="100"> -->
+<!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neloy-barman&label=Profile%20views&color=0e75b6&style=flat" alt="neloy-barman" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neloy-barman" alt="neloy-barman" /></a> </p>!-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Skills & Tools
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><strong>Programming Languages</strong></td>
+            <td align="center">
+                    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30" width="100">
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Data Science Tools</strong></td>
+            <td align="center">
+                    <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="30" width="100">
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Deep Learning</strong></td>
+            <td align="center">
+                    <img align="center" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="30" width="100">
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Frameworks</strong></td>
+            <td align="center">
+                    <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" width="100">
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Databases</strong></td>
+            <td align="center">
+                    <img align="center" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="30" width="120">
+                    <img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="30" width="100">
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><strong>IDE</strong></td>
+            <td align="center">
+                    <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30" width="120">
+                    <img align="center" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" height="30" width="120">
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Version Control</strong></td>
+            <td align="center">
+                    <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" width="100">
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Graphical Tools</strong></td>
+            <td align="center">
+                    <img align="center" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="30" width="120">
+                    <img align="center" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="30" width="120">
+                    <img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="30" width="100">
+            </td>
+        </tr>
+    </table>
+</div>
 
 
+
+
+
+
+
+<!---
 ## Skills & Tools
 <div align="center">
     <table>
@@ -56,13 +139,13 @@
         <tr>
             <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/eb234c7c-1427-4530-b867-22953971d262" height="80" width="80"></td>
             <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/ef7236f5-21e6-4b5f-8d95-8b6e67bb2754" height="100" width="100"></td>
-<!--             <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/c80f61e5-9fe3-4698-bec8-961532d3b772" height="80" width="80"></td> -->
+            <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/c80f61e5-9fe3-4698-bec8-961532d3b772" height="80" width="80"></td>
             <td align="center"><img src="https://github.com/Neloy-Barman/Neloy-Barman/assets/110896263/c19ba764-54e0-4cc3-9914-818503161b14" height="120" width="120"></td>
         </tr>
         <tr>
             <td align="center"><strong>TensorFlow</strong></td>
             <td align="center"><strong>Keras</strong></td>
-<!--             <td align="center"><strong>TensorFlow Lite</strong></td> -->
+            <td align="center"><strong>TensorFlow Lite</strong></td>
             <td align="center"><strong>FastAI</strong></td>
         </tr>
     </table>
@@ -135,14 +218,16 @@
             <td align="center"><strong>Blender</strong></td>
         </tr>
     </table>
-</div>
-        
+</div> 
+-->
+
+
 ## 📊 GitHub Statistics
-<table>
-<tr>
+<table align="center">
+<tr align="center">
 <td>
 <a href="https://github.com/Neloy-Barman/Neloy-Barman">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neloy-Barman&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=CACAE5&icon_color=blue&bg_color=000000" alt="Levy's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neloy-Barman&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
 <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neloy-Barman&theme=highcontrast&layout=compact" />
@@ -150,7 +235,7 @@
 </td>
 </tr>
 
-<tr>
+<tr align="center">
 <td>
             <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neloy-Barman"/>
 </td>
@@ -159,9 +244,10 @@
 </td>
 </tr>
 
-<tr>
-<tr>
-        <th colspan="7"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&random=false&width=435&lines=I+am+ready+to+work+with+you.;Mail+me+via+neloycareer018%40gmail.com" alt="Typing SVG" /></a></th>
+<tr align="center">
+<tr align="center">
+<!--         <th colspan="7"><a href="https://github.com/Neloy-Barman/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th> -->
+    <th colspan="7"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&random=false&width=435&lines=I+am+ready+to+work+with+you.;Mail+me+via+neloycareer018%40gmail.com" alt="Typing SVG" /></a></th>
       </tr>
 <td align="center">
 
@@ -173,19 +259,48 @@
 <td align="center">
 <p align="center">
 </p>
-        <img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="190" />
+            <img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="190" />
 </td>
 </tr>
 </table>
 
 
 
-<!-- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neloy-barman&show_icons=true&locale=en&layout=compact" alt="neloy-barman" /></p>
+<!---  
+## 📊 GitHub Statistics
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Neloy-Barman/Neloy-Barman">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neloy-Barman&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=CACAE5&icon_color=blue&bg_color=000000" alt="Levy's GitHub Stats" />
+        </td>
+        <td align="center">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neloy-Barman&theme=highcontrast&layout=compact" />
+        </a>
+        </td>
+    </tr>
+    <tr>
+    <td align="center">
+        <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neloy-Barman"/>
+    </td>
+    <td align="center">
+        <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neloy-Barman"/>
+    </td>
+    </tr>
+    <tr>
+    <tr>
+            <th colspan="7"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&random=false&width=435&lines=I+am+ready+to+work+with+you.;Mail+me+via+neloycareer018%40gmail.com" alt="Typing SVG" /></a></th>
+          </tr>
+    <td align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neloy-Barman&theme=highcontrast&layout=compa"/>)](https://git.io/streak-stats)
+    </td>
+    <td align="center">
+    <p align="center">
+    </p>
+        <img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="190" />
+    </td>
+    </tr>
+</table>
+-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neloy-barman&show_icons=true&locale=en" alt="neloy-barman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neloy-barman&" alt="neloy-barman" /></p> -->
