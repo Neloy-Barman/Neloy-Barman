@@ -9,6 +9,17 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neloy-barman" alt="neloy-barman" /></a> </p>!-->
 
+<div align="center">
+    <a href="https://drive.google.com/file/d/1KCcm_IJnlZa1TUarPKhyXBoqWOT7x_xJ/view"><img src="https://img.shields.io/badge/Resume-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"></a>
+    <a href="https://www.linkedin.com/in/neloy-barman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://neloy-barman.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+    <a href="https://www.kaggle.com/neloybarman018"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<!--     <a href="https://drive.google.com/file/d/1KCcm_IJnlZa1TUarPKhyXBoqWOT7x_xJ/view"><img src="https://img.shields.io/badge/Resume-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"></a> -->
+<!--     <a href="https://www.kaggle.com/neloybarman018"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+</div>
+
+
+
 ## 🛠️ Skills & Tools
 <div align="center">
     <table>
