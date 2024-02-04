@@ -270,7 +270,7 @@
 <td align="center">
 <p align="center">
 </p>
-            <img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="190" />
+            <img align="center" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="190" />
 </td>
 </tr>
 </table>
@@ -278,40 +278,4 @@
 
 
 
-<!---  
-## 📊 GitHub Statistics
-<table align="center">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/Neloy-Barman/Neloy-Barman">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neloy-Barman&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=CACAE5&icon_color=blue&bg_color=000000" alt="Levy's GitHub Stats" />
-        </td>
-        <td align="center">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neloy-Barman&theme=highcontrast&layout=compact" />
-        </a>
-        </td>
-    </tr>
-    <tr>
-    <td align="center">
-        <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neloy-Barman"/>
-    </td>
-    <td align="center">
-        <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neloy-Barman"/>
-    </td>
-    </tr>
-    <tr>
-    <tr>
-            <th colspan="7"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&random=false&width=435&lines=I+am+ready+to+work+with+you.;Mail+me+via+neloycareer018%40gmail.com" alt="Typing SVG" /></a></th>
-          </tr>
-    <td align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neloy-Barman&theme=highcontrast&layout=compa"/>)](https://git.io/streak-stats)
-    </td>
-    <td align="center">
-    <p align="center">
-    </p>
-        <img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="190" />
-    </td>
-    </tr>
-</table>
--->
 
