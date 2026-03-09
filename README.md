@@ -1,7 +1,7 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Neloy Barman&fontSize=42&fontColor=fff&fontAlignY=32&desc=⚡%20Agentic%20AI%20Engineer%20%7C%20Automation%20Specialist%20%7C%20Chatbot%20Developer⚡&descAlignY=62&descAlign=50" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Neloy%20Barman&fontSize=42&fontColor=fff&fontAlignY=32&desc=⚡%20Agentic%20AI%20Engineer%20%7C%20Automation%20Specialist%20%7C%20Chatbot%20Developer⚡&descAlignY=62&descAlign=50" />
+</p>
 
 <!-- Header Links -->
 <div align="center">
@@ -17,8 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=Neloy-Barman&label=Profile+Views&color=0e75b6&style=plastic" alt="Profile Views" height="25"/>
 
 </div>
-
----
 
 <!-- About Me -->
 
@@ -50,8 +48,6 @@ me.say_hi()
 > Started as an **Associate Flutter Developer**, leveled up through an **advanced ML apprenticeship**, and
 > now building **enterprise-grade AI Agents, Chatbots and Automation systems** that actually ship. 🛠️
 
----
-
 <!-- What I Build -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> &nbsp; What I Build
@@ -82,8 +78,6 @@ me.say_hi()
   </tr>
 </table>
 </div>
-
----
 
 <!-- Tech Arsenal -->
 
@@ -258,8 +252,6 @@ me.say_hi()
     <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" height="25"/>
 </div>
 
----
-
 <!-- GitHub Statistics -->
 
 ## <img src="https://media.giphy.com/media/cIn5fTcjnMBLyTFEFV/giphy.gif" width="35"/> &nbsp; GitHub Statistics
@@ -268,8 +260,6 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neloy-Barman&theme=dark&background=0d1117&border=30363d&ring=00D9FF&fire=FF4500&currStreakLabel=00D9FF" height="180" alt="GitHub Streak"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neloy-Barman&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
-
----
 
 <!-- Let's Build Together -->
 
@@ -284,8 +274,6 @@ me.say_hi()
   &nbsp;
   <a href="https://neloy-barman.github.io/"><img src="https://img.shields.io/badge/Visit%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </div>
-
----
 
 <!-- Footer -->
 <div align="center">
