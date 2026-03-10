@@ -5,13 +5,14 @@
 
 <!-- Header Links -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=999999&color=39FF14&center=true&vCenter=true&width=500&lines=%F0%9F%A4%96+Building+Production-Grade+AI+Systems;%F0%9F%95%B5%EF%B8%8F+Designing+Multi-Agent+Agentic+Workflows;%F0%9F%94%8A+Engineering+Real-Time+Voice+AI+Pipelines;%E2%9A%99%EF%B8%8F+Automating+Everything+with+n8n+%26+APIs" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=999999999&color=39FF14&center=true&vCenter=true&width=500&lines=%F0%9F%A4%96+Building+Production-Grade+AI+Systems;%F0%9F%95%B5%EF%B8%8F+Designing+Multi-Agent+Agentic+Workflows;%F0%9F%94%8A+Engineering+Real-Time+Voice+AI+Pipelines;%E2%9A%99%EF%B8%8F+Automating+Everything+with+n8n+%26+APIs" alt="Typing SVG" /></a>
   <br/>
   <a href="https://www.linkedin.com/in/neloy-barman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" height="25"/></a>
   <a href="https://neloy-barman.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" height="25"/></a>
   <a href="mailto:neloycareer018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="25"/></a>
   <a href="https://github.com/Neloy-Barman/Neloy_Barman_Public_Documents/blob/main/NELOY_BARMAN_Resume.pdf"><img src="https://img.shields.io/badge/Resume-d62828?style=plastic&logo=researchgate&logoColor=02c39a" height="25"/></a>
   <a href="https://leetcode.com/u/neloycareer018/"><img src="https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06" height="25"/></a>
+  <a href="https://medium.com/@neloyupwork018"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" height="25"/></a>
   <a href="https://www.kaggle.com/neloybarman018"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white" height="25"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Neloy-Barman&label=Profile+Views&color=0e75b6&style=plastic" alt="Profile Views" height="25"/>
@@ -357,7 +358,7 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/> &nbsp; Let's Build Together
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=999999&color=FF6B6B&center=true&vCenter=true&width=500&lines=%F0%9F%92%A1+Open+to+Freelance+%26+Consulting+Opportunities!;%F0%9F%A4%96+Let's+build+intelligent+AI+products+together!;%F0%9F%94%8A+Voice+AI%2C+Chatbots%2C+Agents+%E2%80%94+I+do+it+all!;%E2%9A%99%EF%B8%8F+Automate+your+workflows+with+n8n+%2B+AI!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=999999999&color=FF6B6B&center=true&vCenter=true&width=500&lines=%F0%9F%92%A1+Open+to+Freelance+%26+Consulting+Opportunities!;%F0%9F%A4%96+Let's+build+intelligent+AI+products+together!;%F0%9F%94%8A+Voice+AI%2C+Chatbots%2C+Agents+%E2%80%94+I+do+it+all!;%E2%9A%99%EF%B8%8F+Automate+your+workflows+with+n8n+%2B+AI!" alt="Typing SVG" /></a>
   <br>
   <a href="https://www.linkedin.com/in/neloy-barman/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
