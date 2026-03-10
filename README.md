@@ -25,19 +25,30 @@
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="340" height="200"/>
 
 ```python
+from typing import List
+from dataclasses import dataclass, field
+@dataclass
 class Developer:
-    def __init__(self):
-        self.name        = "Neloy Barman"
-        self.role        = ["Agentic AI Engineer", "n8n Automation Specialist", "Chatbot Developer"]
-        self.languages   = ["Python", "JavaScript", "C", "Dart", "Java"]
-        self.focus       = "Agentic AI & LLM Orchestration"
-        self.currently   = "Building advanced agentic workflows & n8n automations"
-        self.ask_me      = "LLMs, Chatbots, AI Agents, RAG, Voice AI & Automation"
-        self.fun_fact    = "I turn coffee into AI pipelines ☕🤖"
+    name: str = "Neloy Barman"
+    title: List = [
+        "Agentic AI Engineer",
+        "n8n Automation Specialist",
+        "Chatbot Developer",
+    ]
+    languages: List = ["Python", "JavaScript", "Java", "Dart", "C"]
+    core_focus: str = "Agentic AI & LLM Orchestration"
+    currently_on: List = field(
+        default_factory=lambda: [
+            "▶ Advanced Agentic Systems",
+            "▶ n8n Automation Pipelines",
+            "▶ Multi-Platform AI Deployment",
+        ]
+    )
+    ask_me: str = "LLMs, Chatbots, AI Agents, RAG, Voice AI & Automation"
+    fun_fact: str = "I turn coffee into AI pipelines ☕🤖"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something intelligent together 🚀")
-
+    def say_hi(self) -> str:
+        return "🚀 Let's build something intelligent together!"
 me = Developer()
 me.say_hi()
 ```
@@ -75,6 +86,86 @@ me.say_hi()
         n8n Workflows · REST APIs<br/>
         CI/CD · Cloud Serverless
         </td>
+  </tr>
+</table>
+</div>
+
+<!-- Featured Projects -->
+
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35"> &nbsp; Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Neloy-Barman/AI-Powered-Customer-Feedback-Automation">
+        <img src="https://img.shields.io/badge/AI%20Feedback%20Automation-View%20Repo-EA4B71?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <b>🔗 AI-Powered Customer Feedback Automation</b>
+      <br/>
+      <sub>End-to-end feedback processing with AI analysis & intelligent routing</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tally.so-4F46E5?style=flat-square&logo=tally&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qwen2--VL-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/LM_Studio-6366F1?style=flat-square&logo=ai&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Neloy-Barman/Affiliate-Submission-Hub-Form-to-Sheets-Automation">
+        <img src="https://img.shields.io/badge/Affiliate%20Submission%20Hub-View%20Repo-EA4B71?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <b>🔗 Affiliate Submission Hub</b>
+      <br/>
+      <sub>Automated form-to-sheets routing with smart affiliate management</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tally.so-4F46E5?style=flat-square&logo=tally&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  </tr>
+    <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Neloy-Barman/Bengali-Fish-Recognizer">
+        <img src="https://img.shields.io/badge/Bengali%20Fish%20Recognizer-View%20Repo-4169E1?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <b>🐟 Interpretable Bengali Fish Recognizer</b>
+      <br/>
+      <sub>Multi-class fish image classification with Grad-CAM explainability</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/FastAI-00A98F?style=flat-square&logo=fastai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ResNet--50-FF6B6B?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DenseNet--121-F97316?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VGG--19-A855F7?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grad--CAM-EF4444?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Neloy-Barman/Daraz-11.11-Top-Selling-Product-Data-Analysis">
+        <img src="https://img.shields.io/badge/Daraz%2011.11%20Analysis-View%20Repo-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <b>🛒 Daraz 11.11 Top Selling Product Data Analysis</b>
+      <br/>
+      <sub>E-commerce data scraping, cleaning & interactive Tableau dashboard analysis</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+    </td>
   </tr>
 </table>
 </div>
