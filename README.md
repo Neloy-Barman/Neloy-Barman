@@ -7,12 +7,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%F0%9F%A4%96+Building+Production-Grade+AI+Systems;%F0%9F%95%B5%EF%B8%8F+Designing+Multi-Agent+Agentic+Workflows;%F0%9F%94%8A+Engineering+Real-Time+Voice+AI+Pipelines;%E2%9A%99%EF%B8%8F+Automating+Everything+with+n8n+%26+APIs" alt="Typing SVG" /></a>
   <br/>
+  <!-- LinkedIn → Portfolio → n8n Creator → Medium → LeetCode → Kaggle → Resume → Gmail -->
   <a href="https://www.linkedin.com/in/neloy-barman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" height="25"/></a>
   <a href="https://neloy-barman.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" height="25"/></a>
-  <a href="mailto:neloycareer018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="25"/></a>
-  <a href="https://github.com/Neloy-Barman/Neloy_Barman_Public_Documents/blob/main/NELOY_BARMAN_Resume.pdf"><img src="https://img.shields.io/badge/Resume-d62828?style=plastic&logo=researchgate&logoColor=02c39a" height="25"/></a>
+  <a href="https://n8n.io/creators/neloy-barman/"><img src="https://img.shields.io/badge/n8n-Creator-EA4B71?style=plastic&logo=n8n&logoColor=white" height="25"/></a>
+  <a href="https://medium.com/@neloyupwork018"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" height="25"/></a>
   <a href="https://leetcode.com/u/neloycareer018/"><img src="https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06" height="25"/></a>
   <a href="https://www.kaggle.com/neloybarman018"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white" height="25"/></a>
+  <a href="https://github.com/Neloy-Barman/Neloy_Barman_Public_Documents/blob/main/NELOY_BARMAN_Resume.pdf"><img src="https://img.shields.io/badge/Resume-d62828?style=plastic&logo=researchgate&logoColor=02c39a" height="25"/></a>
+  <a href="mailto:neloycareer018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="25"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Neloy-Barman&label=Profile+Views&color=0e75b6&style=plastic" alt="Profile Views" height="25"/>
 
