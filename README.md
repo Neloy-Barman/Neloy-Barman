@@ -13,7 +13,6 @@
   <a href="https://n8n.io/creators/neloy-barman/"><img src="https://img.shields.io/badge/n8n-Creator-EA4B71?style=plastic&logo=n8n&logoColor=white" height="25"/></a>
   <a href="https://medium.com/@neloyupwork018"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" height="25"/></a>
   <a href="https://leetcode.com/u/neloycareer018/"><img src="https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06" height="25"/></a>
-  <a href="https://medium.com/@neloyupwork018"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" height="25"/></a>
   <a href="https://www.kaggle.com/neloybarman018"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white" height="25"/></a>
   <a href="https://github.com/Neloy-Barman/Neloy_Barman_Public_Documents/blob/main/NELOY_BARMAN_Resume.pdf"><img src="https://img.shields.io/badge/Resume-d62828?style=plastic&logo=researchgate&logoColor=02c39a" height="25"/></a>
   <a href="mailto:neloycareer018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="25"/></a>
